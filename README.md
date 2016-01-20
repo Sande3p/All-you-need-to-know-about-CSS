@@ -1,4 +1,4 @@
-# CSS Refresher Notes
+# Know about CSS
 
 This is a quick refresher of CSS concepts compiled from various articles online. Contributions are always welcome :)
 
